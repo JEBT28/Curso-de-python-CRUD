@@ -1,4 +1,4 @@
-# Curso-de-python-CRUD
+# Curso de python CRUD
 Proyecto del curso utlizando JSON en lugar de CSV
 
 El repositorio contiene el proyecto final del curso de platzi "Curso practico de python: CRUD"
